@@ -43,6 +43,10 @@
 
 > Ele transforma o texto.
 
+```css
+    text-decorantion: ;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
