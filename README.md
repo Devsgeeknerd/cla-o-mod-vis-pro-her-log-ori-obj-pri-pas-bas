@@ -13,6 +13,10 @@
     font-size: ;
 ```
 
+* ***font-size***
+
+> Muda o tamanho da fonte.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
