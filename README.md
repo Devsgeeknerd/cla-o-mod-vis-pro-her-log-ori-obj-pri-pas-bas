@@ -1,6 +1,14 @@
 <!-- TITLE -->
 # Formatação de Texto
 
+```css
+    color: ;
+```
+
+* ***color***
+
+> Muda a cor do texto.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
