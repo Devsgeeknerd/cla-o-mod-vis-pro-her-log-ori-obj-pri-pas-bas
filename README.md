@@ -21,6 +21,10 @@
     font-family: ;
 ```
 
+* ***font-family***
+
+> Muda o tipo da fonte.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
