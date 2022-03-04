@@ -45,6 +45,8 @@
     text-transform: ;
 ```
 
+* ***text-transform***
+
 > Ele transforma o texto.
 
 ```css
