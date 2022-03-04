@@ -35,6 +35,8 @@
     text-align: ;
 ```
 
+> Alinha o texto na página, *div* e etc;.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
