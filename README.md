@@ -29,6 +29,8 @@
     font-weight: ;
 ```
 
+> Muda a espessura da fonte.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
