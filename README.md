@@ -53,6 +53,8 @@
     text-decorantion: ;
 ```
 
+* ***text-decoration***
+
 > Ele decora um texto.
 
 <!-- TABLE OF CONTENTS -->
