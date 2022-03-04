@@ -31,6 +31,10 @@
 
 > Muda a espessura da fonte.
 
+```css
+    text-align: ;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
