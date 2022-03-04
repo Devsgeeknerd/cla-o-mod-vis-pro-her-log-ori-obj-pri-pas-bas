@@ -25,6 +25,10 @@
 
 > Muda o tipo da fonte.
 
+```css
+    font-weight: ;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
