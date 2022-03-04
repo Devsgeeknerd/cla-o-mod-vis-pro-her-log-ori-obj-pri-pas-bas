@@ -29,6 +29,8 @@
     font-weight: ;
 ```
 
+* ***font-weight***
+
 > Muda a espessura da fonte.
 
 ```css
