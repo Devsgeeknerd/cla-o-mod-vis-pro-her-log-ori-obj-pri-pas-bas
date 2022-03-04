@@ -41,6 +41,8 @@
     text-transform: ;
 ```
 
+> Ele transforma o texto.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
