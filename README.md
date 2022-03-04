@@ -9,6 +9,10 @@
 
 > Muda a cor do texto.
 
+```css
+    font-size: ;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
