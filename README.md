@@ -37,6 +37,10 @@
 
 > Alinha o texto na página, *div* e etc;.
 
+```css
+    text-transform: ;
+```
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
