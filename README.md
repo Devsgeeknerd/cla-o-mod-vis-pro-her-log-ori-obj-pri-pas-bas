@@ -37,6 +37,8 @@
     text-align: ;
 ```
 
+* ***text-align***
+
 > Alinha o texto na página, *div* e etc;.
 
 ```css
