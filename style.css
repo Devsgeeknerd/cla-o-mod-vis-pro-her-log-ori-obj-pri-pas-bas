@@ -11,4 +11,17 @@ body {
     color: #ff0000;
     width: 500px;
     height: 200px;
+    /* font-size: 40px; */
+    font-size: 20px;
+    /* font-weight: 200; */
+    /* font-weight: 400; */
+    /* font-weight: 800; */
+    /* font-weight: bold; */
+    font-weight: normal;
+    /* font-family: Verdana; */
+    font-family: Helvetica, Verdana;
+    text-align: center;
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-decoration: underline;
 }
