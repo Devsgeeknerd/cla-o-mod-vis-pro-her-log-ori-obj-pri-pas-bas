@@ -68,7 +68,7 @@
 <!--  * [O que aprendi](#o-que-aprendi) -->
 <!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- - [Autor](#autor) -->
+<!-- * [Autor](#autor) -->
 <!-- - [Agradecimentos](#agradecimentos) -->
 * [Informações](#informações)
 
