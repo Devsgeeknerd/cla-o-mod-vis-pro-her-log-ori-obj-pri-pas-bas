@@ -66,7 +66,7 @@
 <!-- * [Meu processo](#meu-processo) -->
 <!--  * [Contruido com](#construido-com) -->
 <!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
 <!--  - [Recusos úteis](#recursos-úteis) -->
 <!-- - [Autor](#autor) -->
 <!-- - [Agradecimentos](#agradecimentos) -->
